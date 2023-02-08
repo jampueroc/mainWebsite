@@ -1,0 +1,12 @@
+[en]
+title = "Jorge's website"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[es]
+title = "Sitio de Jorge"
+description = "Sitio personal solo por diversión"
+contentDir = "content/spanish" 
+weight = 2
+LanguageName = "ES"
